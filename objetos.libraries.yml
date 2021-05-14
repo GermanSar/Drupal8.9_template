@@ -1,0 +1,29 @@
+global-styling:
+  css: 
+    theme:
+
+      
+      css/plugins-css.css: {}
+      css/responsive.css: {}
+      css/shop.css: {}
+      css/style.css: {}
+      css/typography.css: {}
+
+
+
+
+
+      
+g-script:
+    version: 1.0
+    js:
+    
+
+    
+      js/custom.js: {}
+      js/jquery-1.12.4.min.js: {}
+      js/plugins-jquery: {}
+      
+
+        
+      

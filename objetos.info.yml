@@ -1,0 +1,11 @@
+name: Objetos
+type: theme
+description: 'Tema desarrollado por GEMA'
+core_version_requirement: ^8 || ^9
+
+libraries:
+  - objetos/global-styling
+  - objetos/g-script
+
+  
+  
